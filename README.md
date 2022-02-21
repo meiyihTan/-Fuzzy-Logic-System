@@ -6,7 +6,8 @@ Click [here](https://drive.google.com/drive/folders/1u1ACc2EpO4phkqlqkoJ9HUKGuGg
 
 ## Inference Engine 
 Employing the Mamdani fuzzy inference system to do : 
-1)cheese ripening prediction
+
+1)Cheese Ripening Prediction
 ### Problem Statement
 - Managing sensory properties from the fabrication stage in an automatic framework is challenging in food industries, especially in cheese manufacturing.
 - Lack of knowledge on :
@@ -23,7 +24,7 @@ Employing the Mamdani fuzzy inference system to do :
 - To help the expert in his daily task of estimation of the potential changes in of a cheese under given process conditions of air humidity and temperature.
 - To inform an operator of the potential drift of the sensory change of the cheese at a given time t in order to help him to diagnose and control the process of cheese ripening.
 
-2)rain prediction
+2)Rain Prediction
 ### Problem Statement
 - Flood is the most occured disaster in Malaysia.
 - Being able to predict the rainfall volume enable the people to prepare and act
